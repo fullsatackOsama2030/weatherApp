@@ -23,7 +23,7 @@ https://lustrous-blini-0ab08b.netlify.app/
 - عرض أيقونات الطقس الديناميكية
 - ساعة حية مع تحديث مباشر
 
-- #Run Project
+- # Run Project
 
 - _install_ npm
 - _install_ :
