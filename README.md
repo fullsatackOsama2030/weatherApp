@@ -25,5 +25,5 @@ https://lustrous-blini-0ab08b.netlify.app/
 
 - # Run Project
 
-- # _install_ npm
-- # _install_ package
+- # _install npm_
+- # _install package_
